@@ -1,0 +1,9 @@
+﻿  basicFunctions.cpp
+  game.cpp
+C:\Users\hp\source\repos\ESE_224_Project1\ESE_224_Project1\basicFunctions.cpp(39,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+C:\Users\hp\source\repos\ESE_224_Project1\ESE_224_Project1\game.cpp(90,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\ESE_224_Project1\ESE_224_Project1\main.cpp(26): warning C4717:  'main': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\hp\source\repos\ESE_224_Project1\ESE_224_Project1\game.cpp(35): warning C4715:  'Game::actionSelect': not all control paths return a value
+  ESE_224_Project1.vcxproj -> C:\Users\hp\source\repos\ESE_224_Project1\Debug\ESE_224_Project1.exe
